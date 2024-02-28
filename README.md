@@ -44,10 +44,13 @@ while True:
 ## OUTPUT:
 
 
+![Screenshot 2024-02-28 201934](https://github.com/rkpriyadharshini0420/2b_SLIDING_WINDOW_PROTOCOL/assets/151533322/be3af495-34b5-41fb-bf3c-2998bcd73814)
+
+
+
+
 ![Screenshot 2024-02-28 201941](https://github.com/rkpriyadharshini0420/2b_SLIDING_WINDOW_PROTOCOL/assets/151533322/d9b63797-b963-42e9-b780-72fd73c0724c)
 
-
-![Screenshot 2024-02-28 201934](https://github.com/rkpriyadharshini0420/2b_SLIDING_WINDOW_PROTOCOL/assets/151533322/be3af495-34b5-41fb-bf3c-2998bcd73814)
 
 
 
